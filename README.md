@@ -7,7 +7,13 @@
 <h4>Developer & Designer</h4>
 <br>
 <p>
-Iam a respectful self-motivated and gifted at finding reliable solutions for software issues. Experienced in javascript, php, HTML, css, react js and offering skills in css proficiency, Javascript programming, HTML expertise and React js. Fluent in english and accustomed to working with cross-cultural,global terms.
+Hello, My name is Dennis, I enjoy writing computer programs. My interest in computer programming started back in High School when I decided to do a science fair project on web development. As simple as my science fair project was, it taught me a lot about HTML & CSS.
+</p>
+<p>
+  I've had the privilege of participating in Kenya Robotics competitions for high schools. Fast forward to today, where I am currently a student at Machakos University where I am studying for a degree in computer science.
+</p>
+<p>
+  Currently, my main focus is finding reliable solutions for software issues. I am fluent in English and accustomed to working with cross-cultural, global terms.
 </p>
 <p>Iam currently a student at Machakos university studying Computer science.</p>
 <h2>🚀 Some Tools I Use</h2>
