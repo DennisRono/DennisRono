@@ -32,4 +32,4 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" >
  </a>
- <p><a href="https://denniskibet.com/kibet">Check out my porfolio</a></p>
+ <p><a href="https://denniskibet.com/portfolio">Check out my porfolio</a></p>
