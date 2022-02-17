@@ -4,8 +4,7 @@
 <hr>
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=DennisRono&repo=LinkedIn-Clone&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  
+ 
 <br>
 <h2>About Me</h2>
 <h4>Developer & Designer</h4>
