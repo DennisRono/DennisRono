@@ -3,9 +3,11 @@
 #Hey, 👋 Iam Dennis Rono
 <hr>
 
+<p>
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
-
+</p>
+  
 <br>
 <h2>About Me</h2>
 <h4>Developer & Designer</h4>
