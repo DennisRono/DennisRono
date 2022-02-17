@@ -4,7 +4,6 @@
 <hr>
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=DennisRono&repo=LinkedIn-Clone&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
 <br>
@@ -34,6 +33,7 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">
 <img src="./img/vuejs-original.svg" alt="" height="20" width="20">
   </p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
   <hr>
  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" >
