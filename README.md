@@ -22,27 +22,26 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <p>Iam currently a student at Machakos university studying Computer science.</p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="./img/angularjs-original.svg" alt="" height="20" width="20">
-<img src="./img/bootstrap-plain.svg" alt="" height="20" width="20">
-<img src="./img/css3-original-wordmark.svg" alt="" height="20" width="20">
-<img src="./img/gulp-plain.svg" alt="" height="20" width="20">
-<img src="./img/java-original-wordmark.svg" alt="" height="20" width="20">
-<img src="./img/javascript-original.svg" alt="" height="20" width="20">
-<img src="./img/mongodb-original.svg" alt="" height="20" width="20">
-<img src="./img/python-original-wordmark.svg" alt="" height="20" width="20">
-<img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">
-<img src="./img/vuejs-original.svg" alt="" height="20" width="20">
-  </p>
+  <img src="./img/angularjs-original.svg" alt="" height="20" width="20">
+  <img src="./img/bootstrap-plain.svg" alt="" height="20" width="20">
+  <img src="./img/css3-original-wordmark.svg" alt="" height="20" width="20">
+  <img src="./img/gulp-plain.svg" alt="" height="20" width="20">
+  <img src="./img/java-original-wordmark.svg" alt="" height="20" width="20">
+  <img src="./img/javascript-original.svg" alt="" height="20" width="20">
+  <img src="./img/mongodb-original.svg" alt="" height="20" width="20">
+  <img src="./img/python-original-wordmark.svg" alt="" height="20" width="20">
+  <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">
+  <img src="./img/vuejs-original.svg" alt="" height="20" width="20">
+</p>
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
-  <hr>
+ 
+ 
+ <hr>
  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" >
  </a>
- <p>
-  <a href="https://blogs.denniskibet.com/portfolio">
-  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
-  </a>
-</p>
  
  ## contact me:
 <a href="https://www.instagram.com/finn_neron/">
@@ -54,3 +53,8 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <a href="https://discord.gg/t7dEEgGE6y">
 <img alt="linkedin" src="https://img.shields.io/badge/Discord-0077B5?logo=Discord&logoColor=white&style=for-the-badge" />
 </a>
+<p>
+  <a href="https://blogs.denniskibet.com/portfolio">
+  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
+  </a>
+</p>
