@@ -1,16 +1,12 @@
-<h1>Dennis Rono
-</h1>
-#Hey, 👋 Iam Dennis Rono
-<hr>
+<h1>Hey, 👋 Iam Dennis Rono</h1>
+<p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
- 
-<br>
+
 <h2>About Me</h2>
 <h4>Developer & Designer</h4>
-<br>
 <p>
-Hello, My name is Dennis, I enjoy writing computer programs. My interest in computer programming started back in High School when I decided to do a science fair project on web development. As simple as my science fair project was, it taught me a lot about HTML & CSS.
+My interest in computer programming started back in High School when I decided to do a science fair project on web development. As simple as my science fair project was, it taught me a lot about HTML & CSS.
 </p>
 <p>
   I've had the privilege of participating in Kenya Robotics competitions for high schools. Fast forward to today, where I am currently a student at Machakos University where I am studying for a degree in computer science.
@@ -21,25 +17,23 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <p>Iam currently a student at Machakos university studying Computer science.</p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-  <img src="./img/angularjs-original.svg" alt="" height="20" width="20">
-  <img src="./img/bootstrap-plain.svg" alt="" height="20" width="20">
-  <img src="./img/css3-original-wordmark.svg" alt="" height="20" width="20">
-  <img src="./img/gulp-plain.svg" alt="" height="20" width="20">
-  <img src="./img/java-original-wordmark.svg" alt="" height="20" width="20">
-  <img src="./img/javascript-original.svg" alt="" height="20" width="20">
-  <img src="./img/mongodb-original.svg" alt="" height="20" width="20">
-  <img src="./img/python-original-wordmark.svg" alt="" height="20" width="20">
-  <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">
-  <img src="./img/vuejs-original.svg" alt="" height="20" width="20">
+  <img src="./img/angularjs-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/bootstrap-plain.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/css3-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/gulp-plain.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/java-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/javascript-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/mongodb-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/python-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+  <img src="./img/vuejs-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
 </p>
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
- 
- 
+  
  <hr>
  <a href="https://denniskibet.com/kibet">
- <img src="./img/portfolio.png" align="center" >
+ <img src="./img/portfolio.png" align="center" height="290" width="auto" margin="auto">
  </a>
  
  ## contact me:
