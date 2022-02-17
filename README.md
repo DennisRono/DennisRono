@@ -2,6 +2,9 @@
 </h1>
 #Hey, 👋 Iam Dennis Rono
 <hr>
+
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
+
 <br>
 <h2>About Me</h2>
 <h4>Developer & Designer</h4>
