@@ -49,3 +49,6 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <a href="https://www.linkedin.com/in/finn-neron-7911161aa/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://discord.gg/t7dEEgGE6y">
+<img alt="linkedin" src="https://img.shields.io/discord/t7dEEgGE6y?logo=Discord&logoColor=white&style=for-the-badge" />
+</a>
