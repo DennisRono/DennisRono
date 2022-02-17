@@ -32,6 +32,7 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
 <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">
 <img src="./img/vuejs-original.svg" alt="" height="20" width="20">
   </p>
+  <hr>
  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" >
  </a>
