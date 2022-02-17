@@ -35,7 +35,11 @@ Hello, My name is Dennis, I enjoy writing computer programs. My interest in comp
  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" >
  </a>
- <p><a href="https://blogs.denniskibet.com/portfolio">Check out my porfolio</a></p>
+ <p>
+  <a href="https://blogs.denniskibet.com/portfolio">
+  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
+  </a>
+</p>
  
  ## contact me:
 <a href="https://www.instagram.com/finn_neron/">
