@@ -5,7 +5,7 @@
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DennisRono)](https://github.com/anuraghazra/github-readme-stats)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
 <br>
 <h2>About Me</h2>
