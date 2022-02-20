@@ -52,4 +52,4 @@ My interest in computer programming started back in High School when I decided t
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=DennisRono)
+![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
