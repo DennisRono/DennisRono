@@ -17,16 +17,18 @@ My interest in computer programming started back in High School when I decided t
 <p>Iam currently a student at Machakos university studying Computer science.</p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-  <img src="./img/angularjs-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/bootstrap-plain.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/css3-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/gulp-plain.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/java-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/javascript-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/mongodb-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/python-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/react-original-wordmark.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
-  <img src="./img/vuejs-original.svg" alt="" height="20" width="20">&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 </p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
