@@ -35,8 +35,6 @@ My interest in computer programming started back in High School when I decided t
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
   
  <hr>
  <a href="https://denniskibet.com/kibet">
