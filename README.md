@@ -9,7 +9,7 @@
 
 <!-- ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark) -->
 
-<h2>About Me</h2>
+<!-- <h2>About Me</h2>
 <h4>Developer & Designer</h4>
 <p>
 My interest in computer programming started back in High School when I decided to do a science fair project on web development. As simple as my science fair project was, it taught me a lot about HTML & CSS.
@@ -20,7 +20,7 @@ My interest in computer programming started back in High School when I decided t
 <p>
   Currently, my main focus is finding reliable solutions for software issues. I am fluent in English and accustomed to working with cross-cultural, global terms.
 </p>
-<p>Iam currently a student at Machakos university studying Computer science.</p>
+<p>Iam currently a student at Machakos university studying Computer science.</p> -->
 <h2>🚀 Some Tools I Use</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -37,9 +37,9 @@ My interest in computer programming started back in High School when I decided t
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
   
  <hr>
- <a href="https://denniskibet.com/kibet">
+<!--  <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" height="290" width="auto" margin="auto">
- </a>
+ </a> -->
  
  ## contact me:
 <a href="https://www.instagram.com/finn_neron/">
