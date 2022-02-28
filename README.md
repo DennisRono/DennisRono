@@ -36,8 +36,8 @@ My interest in computer programming started back in High School when I decided t
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
   
- <hr>
-<!--  <a href="https://denniskibet.com/kibet">
+<!--  <hr>
+ <a href="https://denniskibet.com/kibet">
  <img src="./img/portfolio.png" align="center" height="290" width="auto" margin="auto">
  </a> -->
  
