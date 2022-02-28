@@ -16,7 +16,7 @@ My interest in computer programming started back in High School when I decided t
 </p>
 <p>Iam currently a student at Machakos university studying Computer science.</p>
 <h2>🚀 Some Tools I Use</h2>
-<p align="left">
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -29,7 +29,6 @@ My interest in computer programming started back in High School when I decided t
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-</p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisRono&layout=compact)](https://github.com/DennisRono/github-readme-stats)
   
