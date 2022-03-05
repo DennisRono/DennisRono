@@ -52,7 +52,7 @@ My interest in computer programming started back in High School when I decided t
 <img alt="linkedin" src="https://img.shields.io/badge/Discord-0077B5?logo=Discord&logoColor=white&style=for-the-badge" />
 </a>
 <p>
-  <a href="https://blogs.denniskibet.com/portfolio">
+  <a href="https://denniskibet.com">
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
   </a>
 </p>
