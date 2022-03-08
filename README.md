@@ -65,4 +65,4 @@ My interest in computer programming started back in High School when I decided t
 
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/DennisRono/count.svg" width="150px"/></h6>
  
- [![commits.top rank](http://biego.tech/commits.php?user=elidakirigo&country=kenya)](https://commits.top/kenya.html)
+ [![commits.top rank](http://biego.tech/commits.php?user=DennisRono&country=kenya)](https://commits.top/kenya.html)
