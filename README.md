@@ -62,3 +62,7 @@ My interest in computer programming started back in High School when I decided t
 </p>
 
 ![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
+
+ <h6>Profile Visits : <img src="https://profile-counter.glitch.me/DennisRono/count.svg" width="150px"/></h6>
+ 
+ [![commits.top rank](http://biego.tech/commits.php?user=elidakirigo&country=kenya)](https://commits.top/kenya.html)
