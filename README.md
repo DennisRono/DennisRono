@@ -1,8 +1,8 @@
 <h1>Hey, 👋 Iam Dennis Rono</h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
-<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
-    <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
+<a align ="center" href="https://denniskibet.com">
+    <img alt="Finn Neron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
 <a href="https://denniskibet.com/">
