@@ -1,9 +1,9 @@
 <h1>Hey, 👋 Iam Dennis Rono</h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
-<a align ="center" href="https://denniskibet.com">
+<!-- <a align ="center" href="https://denniskibet.com">
     <img alt="Finn Neron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
+</a> -->
 
 <a href="https://denniskibet.com/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DennisRono&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />&nbsp;
