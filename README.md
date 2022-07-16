@@ -53,10 +53,13 @@ My interest in computer programming started back in High School when I decided t
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.gg/t7dEEgGE6y">
-<img alt="linkedin" src="https://img.shields.io/badge/Discord-0077B5?logo=Discord&logoColor=white&style=for-the-badge" />
+<img alt="linkedin" src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://profile.codersrank.io/user/dennisrono/">
-<img alt="CodersRank" src="https://img.shields.io/badge/CodersRank-0077B5?logo=CodersRank&logoColor=white&style=for-the-badge" />
+<img alt="CodersRank" src="https://img.shields.io/badge/CodersRank-50B0BA?logo=CodersRank&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://stackoverflow.com/users/18003296/denniskibet">
+<img alt="StackOverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <p>
   <a href="https://denniskibet.com">
