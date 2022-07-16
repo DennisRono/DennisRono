@@ -55,6 +55,9 @@ My interest in computer programming started back in High School when I decided t
 <a href="https://discord.gg/t7dEEgGE6y">
 <img alt="linkedin" src="https://img.shields.io/badge/Discord-0077B5?logo=Discord&logoColor=white&style=for-the-badge" />
 </a>
+<a href="https://profile.codersrank.io/user/dennisrono/">
+<img alt="CodersRank" src="https://img.shields.io/badge/CodersRank-0077B5?logo=CodersRank&logoColor=white&style=for-the-badge" />
+</a>
 <p>
   <a href="https://denniskibet.com">
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
