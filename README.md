@@ -60,6 +60,13 @@ My interest in computer programming started back in High School when I decided t
 </a>
 <a href="https://stackoverflow.com/users/18003296/denniskibet">
 <img alt="StackOverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a> 
+<a href="https://medium.com/@dennisrkibet">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-00000E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</a> 
+<a href="https://twitter.com/FinnNeron">
+<img alt="Medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <p>
   <a href="https://denniskibet.com">
