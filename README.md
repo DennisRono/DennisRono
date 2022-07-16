@@ -66,8 +66,12 @@ My interest in computer programming started back in High School when I decided t
 </a>
 </a> 
 <a href="https://twitter.com/FinnNeron">
-<img alt="Medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA">
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 <p>
   <a href="https://denniskibet.com">
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
