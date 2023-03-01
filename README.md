@@ -52,7 +52,7 @@ My interest in computer programming started back in High School when I decided t
 <a href="https://www.instagram.com/finn_neron/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
-<a href="https://www.linkedin.com/in/finn-neron-7911161aa/">
+<a href="https://www.linkedin.com/in/dennis-kibet-7911161aa/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.gg/t7dEEgGE6y">
