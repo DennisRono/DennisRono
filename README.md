@@ -71,7 +71,7 @@ My interest in computer programming started back in High School when I decided t
 <a href="https://twitter.com/FinnNeron">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA">
+<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA?sub_confirmation=1">
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
