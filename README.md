@@ -7,7 +7,7 @@
 
 <a href="https://denniskibet.com/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DennisRono&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />&nbsp;
-  <img height="137px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisrono&layout=compact&langs_count=8&hide=scss,html,less,css&show_icons=true&theme=dark&hide_title=true&hide_border=true" /></a>
+  <img height="137px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisrono&layout=compact&langs_count=8&hide=scss,html,less,css&show_icons=true&theme=dark&hide_title=true&hide_border=true&card_width=400px" /></a>
 
 <!-- ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisRono&show_icons=true&theme=dark) -->
 
