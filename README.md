@@ -71,7 +71,7 @@ My interest in computer programming started back in High School when I decided t
 </a>
 
 <p>
-  <a href="https://denniskibet.com">
+  <a href="https://denniskibet.netlify.app">
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
   </a>
 </p>
