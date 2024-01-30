@@ -44,7 +44,7 @@ My interest in computer programming started back in High School when I decided t
  </a> -->
  
  ## contact me:
-<a href="https://www.instagram.com/finn_neron/">
+<a href="https://www.instagram.com/_kibetdennis_/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
 <a href="https://www.linkedin.com/in/dennis-kibet-7911161aa/">
@@ -63,7 +63,7 @@ My interest in computer programming started back in High School when I decided t
 <img alt="Medium" src="https://img.shields.io/badge/Medium-00000E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </a> 
-<a href="https://twitter.com/FinnNeron">
+<a href="https://twitter.com/dennisrkibet">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA?sub_confirmation=1">
