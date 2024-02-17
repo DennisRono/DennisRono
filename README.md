@@ -77,7 +77,7 @@ My interest in computer programming started back in High School when I decided t
 </p>
 <p>
   <a href="https://www.buymeacoffee.com/dennisrkibet">
-  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
+  <img src="./img/black-button.png" alt="my porfolio" />
   </a>
 </p>
 
