@@ -81,9 +81,8 @@ My interest in computer programming started back in High School when I decided t
   </a>
     &nbsp;&nbsp;
     <a href="https://denniskibet.netlify.app/hire-me" target="_blank">
-  <img src="https://img.shields.io/badge/hire-me-8A2BE2" width="110" alt="my porfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_hire_me-FFDD00" width="110" alt="my porfolio" />
   </a>
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dennisrkibet" data-color="#FFDD00" data-emoji="🎓" data-font="Lato" data-text="Hire Me " data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
