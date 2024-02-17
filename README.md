@@ -74,11 +74,8 @@ My interest in computer programming started back in High School when I decided t
   <a href="https://denniskibet.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
   </a>
-  <a href="https://denniskibet.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
-  </a>
-      <a href="https://www.buymeacoffee.com/dennisrkibet" target="_blank">
-  <img src="https://img.shields.io/badge/hire_me-8A2BE2" width="150" alt="my porfolio" />
+    <a href="https://www.buymeacoffee.com/dennisrkibet" target="_blank">
+  <img src="https://img.shields.io/badge/hire_me-8A2BE2" width="50" alt="my porfolio" />
   </a>
 </p>
 <p>
