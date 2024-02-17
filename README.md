@@ -75,6 +75,11 @@ My interest in computer programming started back in High School when I decided t
   <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
   </a>
 </p>
+<p>
+  <a href="https://www.buymeacoffee.com/dennisrkibet">
+  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
 
