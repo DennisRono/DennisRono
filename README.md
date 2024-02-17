@@ -81,7 +81,7 @@ My interest in computer programming started back in High School when I decided t
   </a>
     &nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/dennisrkibet" target="_blank">
-  <img src="https://img.shields.io/badge/hire_me-8A2BE2" width="100" alt="my porfolio" />
+  <img src="https://img.shields.io/badge/hire_me-8A2BE2" width="110" alt="my porfolio" />
   </a>
 </p>
 
