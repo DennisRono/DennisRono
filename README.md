@@ -80,7 +80,7 @@ My interest in computer programming started back in High School when I decided t
   <img src="./img/black-button.png" width="150" alt="my porfolio" />
   </a>
     &nbsp;&nbsp;
-    <a href="https://denniskibet.netlify.app/hire-me" target="_blank">
+    <a href="https://denniskibet.netlify.app/resume" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8E%93_hire_me-FFDD00" width="110" alt="my porfolio" />
   </a>
 </p>
