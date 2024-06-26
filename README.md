@@ -81,10 +81,13 @@ My interest in computer programming started back in High School when I decided t
   </a>
     &nbsp;&nbsp;
     <a href="https://denniskibet.netlify.app/resume" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_hire_me-FFDD00" width="110" alt="my porfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_hire_me-FFDD00" width="110" height="60" alt="my porfolio" />
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
+<p>
+    ![](https://komarev.com/ghpvc/?username=DennisRono&label=PROFILE+VIEWS)
+    &nbsp;&nbsp;
+    [![wakatime](https://wakatime.com/badge/user/018c5344-c2e7-44e7-886f-13ff3df05e4a.svg)](https://wakatime.com/@018c5344-c2e7-44e7-886f-13ff3df05e4a)
+</p>
 
 <!--hello-->
