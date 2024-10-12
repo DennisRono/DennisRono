@@ -70,7 +70,7 @@ My interest in computer programming started back in High School when I decided t
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://denniskibet.com">
-<img src="static/codegif.webp" width ="30">
+<img src="img/codegif.webp" width ="30">
 </a>
 
 <p>
