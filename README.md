@@ -1,4 +1,4 @@
-<h1>Hey, 👋 Iam Dennis Rono</h1>
+<h1>Hey, 👋 Iam Dennis Kibet Rono</h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
 <!-- <a align ="center" href="https://denniskibet.com">
